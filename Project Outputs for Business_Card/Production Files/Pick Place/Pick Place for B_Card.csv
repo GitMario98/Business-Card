@@ -1,0 +1,26 @@
+Altium Designer Pick and Place Locations
+C:\Francesco\Progetti\Business Card\Project Outputs for Business_Card\Production Files\Pick Place\Pick Place for B_Card.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       17/08/22
+Time:       13:58
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Layer","Designator","Center-X(mm)","Center-Y(mm)","Rotation"
+"TopLayer","U1","73.1495","43.0750","270"
+"TopLayer","R5","76.2270","37.9226","90"
+"TopLayer","R4","74.1500","37.9226","90"
+"TopLayer","R3","72.0730","37.9226","90"
+"TopLayer","R2","69.9959","37.9226","90"
+"TopLayer","R1","74.2000","47.5468","90"
+"TopLayer","C3","78.7390","44.3250","180"
+"TopLayer","C2","78.7390","42.3250","360"
+"TopLayer","C1","72.1000","47.5468","270"
+"BottomLayer","LED4","73.9000","28.9500","160"
+"BottomLayer","LED3","73.9035","25.1250","200"
+"BottomLayer","LED2","69.5000","26.9900","360"
+"BottomLayer","LED1","17.9250","26.9900","360"
