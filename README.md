@@ -1,4 +1,7 @@
 # Business-Card
 NFC Power Harvesting Business Card
 
-NFC Business card, with user programmable tag and power harvesting to light up RGB LEDs, to improve your performances by 20%
+Features:
+• User programmable NFC Tag, based on ST25 series of dynamic tags
+• Power harvesting capabilities
+• RGB LED's for up to +20% of performances
